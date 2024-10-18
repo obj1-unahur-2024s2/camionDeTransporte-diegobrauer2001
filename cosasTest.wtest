@@ -1,9 +1,1 @@
 import cosas.*
-
-describe "group of test for cosas" {
-
-  test "first test" {
-    assert.that(true)
-  }
-
-}
